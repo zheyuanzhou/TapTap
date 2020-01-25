@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64f1992da4daf4ddfb30c8309112c2e9, type: 3}
+  m_Name: 2_Bat
+  m_EditorClassIdentifier: 
+  playerIndex: 2
+  playerReference: {fileID: 1006959972796637261, guid: ae519765b57794aea96e6ea74ff89182,
+    type: 3}
+  playerName: Bat
+  playerType: 2
+  playerSkill: '- Random Single Object
+
+    - Health per hit (50% attack)'
+  playerSprite: {fileID: 4754826937556007664, guid: 6bc4bc971b224466999211c8a9b26239,
+    type: 3}
+  playerLv: 1
+  playerHp: 200
+  playerSpeed: 1
+  playerAtt: 20
+  playerPrice: 50

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64f1992da4daf4ddfb30c8309112c2e9, type: 3}
+  m_Name: 3_Squirrel
+  m_EditorClassIdentifier: 
+  playerIndex: 3
+  playerReference: {fileID: 246948596102304227, guid: c2ae4e1f7439943c1a184d1db6b25cd8,
+    type: 3}
+  playerName: Squirrel
+  playerType: 3
+  playerSkill: '- Attack lowest HP object'
+  playerSprite: {fileID: 637523042609327089, guid: 1621bc120966c43c1ac3e84524cbeb94,
+    type: 3}
+  playerLv: 1
+  playerHp: 100
+  playerSpeed: 0.5
+  playerAtt: 2
+  playerPrice: 250
